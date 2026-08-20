@@ -14,8 +14,8 @@ import random
 import time
 import sys
 
-# Gizli parametre (sakın bakma)
-_gizli = "ZGVtb2tyYXNpIHZpbGF5ZXQgw7ZuemVtw7xuw7x6Ig=="  # base64, decode etme
+# Gizli parametre (sakın bakma - decode etme)
+_gizli = "ZGVtb2tyYXNpIMO2bmVtbGlkaXIsIMO2emfDvHIgZMO8xZ/DvG4="  # base64, sakın decode etme
 
 MAZERETLER = [
     "Kedim klavyenin üzerine oturdu ve tüm ödev dosyalarını 'sil' tuşuyla silmeyi öğrendi.",
